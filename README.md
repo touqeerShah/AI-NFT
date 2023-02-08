@@ -28,8 +28,6 @@ This is simple example of AI API and ERC721 you can used any of them and used th
 
 ## Deployed Contract Address
 
-AINFT = 0x14fA186e1c28affB75D3aE4899491168F52c0A66
-
 ## Requirements
 
 - [Nodejs](https://nodejs.org/en/)
@@ -185,7 +183,7 @@ yarn lint:fix
 Contract Address Testnet
 
 ```
-OrcaleUrlProvider : 0xb0e264DddD55Ec329977F846bEFbd028350c6641
+AINFT = 0x14fA186e1c28affB75D3aE4899491168F52c0A66
 ```
 
 # Thank you!
