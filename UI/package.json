@@ -1,0 +1,42 @@
+{
+  "name": "my-app",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@ethersproject/providers": "^5.7.2",
+    "@next/font": "13.1.6",
+    "@types/node-fetch": "^2.6.2",
+    "@types/react-dom": "18.0.10",
+    "@walletconnect/web3-provider": "^1.8.0",
+    "axios": "^1.3.2",
+    "base-64": "^1.0.0",
+    "eslint": "8.33.0",
+    "eslint-config-next": "13.1.6",
+    "ethers": "^6.0.2",
+    "ipfs-api": "^17.5.0",
+    "ipfs-client": "^0.10.0",
+    "ipfs-http-client": "^57.0.3",
+    "ipfs-http-client-lite": "^0.3.0",
+    "ipfs-infura": "^1.1.9",
+    "next": "13.1.6",
+    "nft.storage": "^7.0.0",
+    "node-fetch": "^3.3.0",
+    "react": "18.2.0",
+    "react-bootstrap": "^2.7.0",
+    "react-dom": "18.2.0",
+    "react-toastify": "^9.1.1",
+    "typescript": "4.9.5",
+    "walletlink": "^2.5.0",
+    "web3modal": "^1.9.12"
+  },
+  "devDependencies": {
+    "@types/node": "^18.11.19",
+    "@types/react": "^18.0.27"
+  }
+}
